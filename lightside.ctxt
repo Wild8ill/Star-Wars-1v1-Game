@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ lightside\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=enemyWeapon\ enemyWeapon2\ enemyWeapon3\ enemyWeapon4
+comment1.target=boolean\ loseHealth(java.lang.Class,\ java.lang.Class,\ java.lang.Class,\ java.lang.Class)
+comment2.params=Health
+comment2.target=void\ despawn(java.lang.Integer)
+comment3.params=direction\ left\ right
+comment3.target=void\ jumpDroid(int,\ java.lang.String,\ java.lang.String)
+numComments=4

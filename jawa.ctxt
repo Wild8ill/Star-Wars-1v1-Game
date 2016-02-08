@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ R2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ moveAround()
+comment2.params=clss
+comment2.target=void\ shootR(java.lang.Class)
+comment3.params=clss
+comment3.target=void\ shootL(java.lang.Class)
+numComments=4
